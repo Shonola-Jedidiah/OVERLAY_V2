@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <attr name="info" format="reference"/>
+    <attr name="cardColor" format="reference"/>
+    <attr name="Color1" format="reference"/>
+    <attr name="Color2" format="reference"/>
+    <attr name="Color3" format ="reference"/>
+    <attr name="caution" format="reference"/>
+    <attr name="def_font" format="reference"/>
 </resources>

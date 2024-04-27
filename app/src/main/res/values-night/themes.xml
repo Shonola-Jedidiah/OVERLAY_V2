@@ -13,5 +13,13 @@
         <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
         <item name="info">@drawable/info_light</item>
+        <item name="cardColor">@color/grey_02</item>
+
+        <item name="Color1">@color/A1</item>
+        <item name="Color2">@color/B1</item>
+        <item name="Color3">@color/C</item>
+        <item name="caution">@drawable/caution_light</item>
+
+        <item name="def_font">@font/architects_daughter</item>
     </style>
 </resources>
